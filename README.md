@@ -20,4 +20,4 @@ This repository contains small example files and experiments used for testing co
 Add more files or a project README with specific instructions when you add runnable code or tests.
 
 ## Languages
-HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
